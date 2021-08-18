@@ -28,7 +28,6 @@ p {
 .sec-head {
   position: absolute;
   right: 0px;
-  top: 0px;
   border: 1px solid black;
   background-color: red;
 }
