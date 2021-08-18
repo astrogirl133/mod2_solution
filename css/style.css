@@ -111,6 +111,6 @@ p {
 /********** Small devices only **********/
  @media (max-width:  767px) {
     .col-sm-3 {
-
+      margin: auto;
     }
  }
