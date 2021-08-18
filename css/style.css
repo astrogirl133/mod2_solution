@@ -23,7 +23,8 @@ p {
 }
 
 .sec-head {
-  position: relative;
+  position: absolute;
+  top: 0;
   border: 1px solid black;
   background-color: red;
 }
