@@ -5,6 +5,7 @@
 h1 {
   margin-bottom: 15px;
   margin: auto;
+  align-content: center;
 }
 
 p {
@@ -110,6 +111,6 @@ p {
 /********** Small devices only **********/
  @media (max-width:  767px) {
     .col-sm-3 {
-       
+
     }
  }
